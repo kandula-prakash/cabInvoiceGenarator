@@ -1,0 +1,4 @@
+C:\Users\prakash kandula\source\repos\cabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\cabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\cabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\cabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.csproj.CoreCompileInputs.cache
